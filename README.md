@@ -10,7 +10,7 @@ WIP is scoped to cover active systems and cryptographic research relevant to the
 
 * May 20th: Workshop announced
 * June 20th: Program Announced
-* June 15th: PETS workshops, including WIP
+* **July 15th**: PETS workshops, including WIP
 
 ## Registration:
 
