@@ -7,9 +7,14 @@ WIP is designed as a place to share early work, direction, and theories for succ
 WIP is scoped to cover active systems and cryptographic research relevant to the problem of private information retrieval - accessing a member element from a collection while controlling metadata leakage.
 
 ## Important Dates:
-May 20th: Workshop announced
-June 20th: Program Announced
-June 15th: PETs
+
+* May 20th: Workshop announced
+* June 20th: Program Announced
+* June 15th: PETS workshops, including WIP
+
+## Registration:
+
+Workshop registration is £75. Registration and logistical details can be found at https://petsymposium.org/2024/registration.php
 
 ## Program:
 The workshop plans to run as ~6 talks on current PIR research.
@@ -30,4 +35,4 @@ Current practitioners and researchers in and adjacent to Private Information Ret
 For the first instance, we don’t anticipate having published proceedings.
 
 ## Contingency plan
-If PETs does not occur, we will aim to have a subset of the program occur in an online format.
+If PETs does not occur, a subset of the program will occur in an online format.
