@@ -8,6 +8,8 @@ Do you have work or theories you'd like to present on PIR constructions? WIP is 
 
 Propose a title and abstract for presentation at https://forms.gle/wikCQT1CqcCLbyKU6
 
+The CFP will be open until *June 20th*
+
 ## Pragma
 
 * Talks will default to 30 minutes slots. If you want more or less time, please specify in your proposal.
