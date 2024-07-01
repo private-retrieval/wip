@@ -14,7 +14,7 @@
 | 14:30 | Single Pass Client-Preprocessing Private Information Retrieval | Arthur Lazzaertti, Yale |
 | 15:00 | Break |
 | 15:30 | Relax the Non-Collusion Assumption in Multi-Server PIR | Tiantian Gong, Purdue University |
-| 16:00 | Computationally Secure Aggregation and Private Information Retrieval in the Shuffle Model | Yiping Ma, UPenn |
+| 16:00 | Single-Server Private Information Retrieval and Secure Aggregation in the Shuffle Model | Yiping Ma, UPenn |
 | 16:30 | Maliciously Secure PIR | Matan Shtepel, UCLA/CMU |
 | 17:00 | Meta Discussion |
 | 17:30 | Break|
