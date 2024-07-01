@@ -10,7 +10,7 @@
 | 12:30    |
 | 13:00    |
 | 13:30    | Practical PIR for Real Databases | Sofía Celi, Brave |
-| 14:00 | Challenges in Low Latency Communication PIR for Applications with Ephemeral Clients | Rasoul Akhavan Mahdavi, University of Waterloo |
+| 14:00 | Challenges in Low Communication PIR for Applications with Ephemeral Clients | Rasoul Akhavan Mahdavi, University of Waterloo |
 | 14:30 | Single Pass Client-Preprocessing Private Information Retrieval | Arthur Lazzaertti, Yale |
 | 15:00 | Break |
 | 15:30 | Relax the Non-Collusion Assumption in Multi-Server PIR | Tiantian Gong, Purdue University |
