@@ -1,7 +1,7 @@
 | **Time** | **Presentation**                             | **Presenter**                            |
 |----------|----------------------------------------------|------------------------------------------|
 | 9:15     | Intro |
-| 9:30     | Batched PIR and Labeled PSI with Oblivious Ciphertext Compression                                            | Alexander Bienstock, NYU                               |
+| 9:30     | Batched PIR and Labeled PSI with Oblivious Ciphertext Compression                                            | Alexander Bienstock, JP Morgan AI Research & AlgoCRYPT CoE. |
 | 10:00    | Break                                          | 
 | 10:30    | Don't be Dense: Efficient Keyword PIR for Sparse Databases                                          | Joon Young Seo, Google                         |
 | 11:00    | The current state of Doubly-Efficient Private Information Retrieval                                          | Simon Pohmann, Royal Holloway                         |
