@@ -17,9 +17,8 @@ WIP is scoped to cover active systems and cryptographic research relevant to the
 Workshop registration is £75. Registration and logistical details can be found at https://petsymposium.org/2024/registration.php
 
 ## Program:
-The workshop plans to run as ~6 talks on current PIR research.
 
-The schedule, as the workshop, is a work in progress.
+The schedule is at https://github.com/private-retrieval/wip/blob/main/schedule.md
 
 ## Organisation / Programme committee
 * David Wu (UT Austin)
