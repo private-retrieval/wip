@@ -5,7 +5,7 @@
 | 10:00    | Break                                          | 
 | 10:30    | Don't be Dense: Efficient Keyword PIR for Sparse Databases                                          | Joon Young Seo, Google                         |
 | 11:00    | The current state of Doubly-Efficient Private Information Retrieval                                          | Simon Pohmann, Royal Holloway                         |
-| 11:30    | WhisPIR                                       | Leo de Castro, MIT                       |
+| 11:30    | VeriSimplePIR                                       | Leo de Castro, MIT                       |
 | 12:00    | Lunch                                       |
 | 12:30    |
 | 13:00    |
